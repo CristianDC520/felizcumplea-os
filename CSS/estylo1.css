@@ -1,0 +1,63 @@
+body{
+	background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%) opacity:90%;
+	background:url(../img/foto6.gif) ;
+    background-size: cover;
+    height: 100vh;
+    margin: ;
+    font-weight: normal; 
+}
+.row{
+height:800px;
+
+margin-right: none;
+margin-left: none;
+}
+.img-rounded{
+	height:740px;
+	margin: 20PX;
+	border-radius:2%;	
+}
+
+
+#caja1{
+	opacity:94%;
+	right:-40px;
+	background-image: linear-gradient(-225deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%);
+	box-shadow: 2px 13px 15px 8px rgba(0, 0, 1.2, 0.8);
+    border-radius: 2%;
+    width:800px;
+    height:780px;
+}
+#caja2{
+left:-120px;
+opacity:85%;	
+	font-family:;
+	background-image: linear-gradient(-225deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%);
+	box-shadow: 2px 13px 15px 8px rgba(0, 0, 1.2, 0.8);
+    border-radius: 2%;
+    width:800px;
+    height:780px;
+
+}
+.container{
+
+}
+.first-slide{
+	padding:10px;
+}
+p{
+	color:#CCD1D1;
+	font-size: 20px;
+}
+h1{
+	font-family: MacOS X;
+color:#F7F9F9;
+}
+.manzana{
+
+}
+.cerdo{
+	border-radius:2%;
+	margin-top:20%;
+
+}
